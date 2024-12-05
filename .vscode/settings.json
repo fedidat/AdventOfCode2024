@@ -56,7 +56,9 @@
         "variant": "cpp",
         "algorithm": "cpp",
         "__config": "cpp",
-        "regex": "cpp"
+        "regex": "cpp",
+        "span": "cpp",
+        "set": "cpp"
     },
     "cmake.sourceDirectory": "/Users/bef/dev/AdventOfCode2024"
 }
