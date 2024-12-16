@@ -61,5 +61,6 @@
         "set": "cpp",
         "ranges": "cpp"
     },
-    "cmake.sourceDirectory": "/Users/bef/dev/AdventOfCode2024"
+    "cmake.sourceDirectory": "/Users/bef/dev/AdventOfCode2024",
+    "C_Cpp.default.compilerPath": "/usr/bin/g++"
 }
