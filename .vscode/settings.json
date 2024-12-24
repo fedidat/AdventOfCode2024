@@ -61,7 +61,8 @@
         "set": "cpp",
         "ranges": "cpp",
         "iterator": "cpp",
-        "functional": "cpp"
+        "functional": "cpp",
+        "forward_list": "cpp"
     },
     "cmake.sourceDirectory": "/Users/bef/dev/AdventOfCode2024",
     "C_Cpp.default.compilerPath": "/usr/bin/g++"
